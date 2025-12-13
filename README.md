@@ -13,6 +13,18 @@ A sleek and functional desktop stopwatch application developed in Python using P
 - **Modern and intuitive user interface** featuring a large time display and styled controls  
 
 ---
+## Screenshot
+
+### Before starting the stopwatch
+
+![Before start](images/image1.PNG)
+
+---
+
+### Running stopwatch
+
+![Running stopwatch](images/image2.PNG)
+
 
 ## Installation
 
@@ -42,6 +54,10 @@ python stopwatch.py
 - Timer implemented using PyQt5’s `QTimer` class with 10 millisecond intervals  
 - Laps stored in a list and displayed in a read-only text box  
 - Saving laps allows easy review and analysis outside the app  
-  
+
+## License
+
+This project is open-source and free to use for educational purposes.
+
 
 
