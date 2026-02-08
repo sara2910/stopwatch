@@ -19,13 +19,13 @@ A sleek and functional desktop stopwatch application developed in Python using P
 
 ![Before start](images/image1.PNG)
 
----
+
 
 ### Running stopwatch
 
 ![Running stopwatch](images/image2.PNG)
 
-
+---
 ## Installation
 
 Make sure you have Python 3 installed. Then install the PyQt5 library:
